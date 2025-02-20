@@ -13,7 +13,9 @@ function Home(){
                     fontSize: "48px", // Font size for better visibility
                     fontWeight: "bold", 
                     textAlign: "center", 
-                    margin: "20px",}}>Darkin</h1>
+                    margin: "20px",
+                    padding:"2px",
+                    cursor:"pointer"}}>Darkin</h1>
                 </div>
                     <nav>
                     <div className="Links">
