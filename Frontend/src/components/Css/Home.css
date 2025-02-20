@@ -1,0 +1,113 @@
+.Navbar{
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 40px;
+    top: 0;
+    padding: 30px;
+    border-right: 0.1px solid gray;
+    height: 100vh;
+    background-color: black;
+}
+
+.Links{
+    display: flex;
+    margin-left: 30px;
+    flex-direction: column;
+    gap: 60px;
+    font-size:x-large;
+}
+
+.content-1{
+    display: flex;
+    max-width: 570px;
+    font-size: xx-large;
+    line-height: 2;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 5px;
+    border-left: 0.1px solid rgb(59, 59, 59);
+    border-top: 0.1px solid rgb(59, 59, 59);
+    box-shadow: 10px 10px 15px rgb(82, 82, 82);
+}
+
+.def-1{
+    line-height: 1.5;
+    display: block;
+    max-width: 600px;
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+
+.content-2{
+    max-width: 800px;
+    font-size: xx-large;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 15px rgb(82, 82, 82);
+    border-left: 1px solid rgb(59, 59, 59);
+    border-top: 0.1px solid rgb(59, 59, 59);
+    margin-top: 50px;
+}
+
+.def-2{
+    display: block;
+    max-width: 600px;
+    padding: 15px;
+    font-size: 22px;
+    border-radius: 50px;
+}
+
+body{
+  font-family: "Playwrite IN", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: larger;
+  font-style:normal;
+}
+
+.reason {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    padding: 2rem;
+    margin-left: 400px;
+    padding: 5px;
+    gap: 30px;
+  }
+  
+.reason-1, .reason-2 {
+    flex: 1; 
+    padding: 1rem;
+}
+
+.reason-2{
+    margin-right: 100px;
+}
+.btn{
+    margin-left: 500px;
+    padding: 50px;
+    margin-right: 200px;
+    transition: 0.3s ease-in;
+    
+}
+
+
+
+
+
+
+  @media (max-width: 1024px) { 
+    .reason {
+      flex-direction: row; 
+      font-size: small;
+    }
+    .Navbar{
+        font-size: small;
+    }
+  }
+
