@@ -1,78 +1,390 @@
 [
-    {"name": "Adam Driver", "code": "CU"},
-    {"name": "Amy Adams", "code": "BM"},
-    {"name": "Andrew Garfield", "code": "SV"},
-    {"name": "Angelina Jolie", "code": "AQ"},
-    {"name": "Anya Taylor-Joy", "code": "DM"},
-    {"name": "Anne Hathaway", "code": "AW"},
-    {"name": "Billy Porter", "code": "EC"},
-    {"name": "Brad Pitt", "code": "AI"},
-    {"name": "Bryce Dallas Howard", "code": "FR"},
-    {"name": "Cate Blanchett", "code": "BD"},
-    {"name": "Charlize Theron", "code": "BY"},
-    {"name": "Chadwick Boseman", "code": "DK"},
-    {"name": "Chris Evans", "code": "CK"},
-    {"name": "Chris Hemsworth", "code": "AD"},
-    {"name": "Chris Pine", "code": "CI"},
-    {"name": "Chris Pratt", "code": "BR"},
-    {"name": "Christian Bale", "code": "CF"},
-    {"name": "Cillian Murphy", "code": "ET"},
-    {"name": "Daniel Day-Lewis", "code": "BE"},
-    {"name": "Daisy Ridley", "code": "FI"},
-    {"name": "Denzel Washington", "code": "DZ"},
-    {"name": "Donald Glover", "code": "FJ"},
-    {"name": "Eddie Redmayne", "code": "CV"},
-    {"name": "Elizabeth Olsen", "code": "CW"},
-    {"name": "Emily Blunt", "code": "TD"},
-    {"name": "Emma Stone", "code": "AS"},
-    {"name": "Emma Watson", "code": "BG"},
-    {"name": "Ewan McGregor", "code": "CR"},
-    {"name": "Florence Pugh", "code": "CZ"},
-    {"name": "Gal Gadot", "code": "IO"},
-    {"name": "George Clooney", "code": "BT"},
-    {"name": "Halle Berry", "code": "BI"},
-    {"name": "Helen Mirren", "code": "FO"},
-    {"name": "Hugh Jackman", "code": "BB"},
-    {"name": "Idris Elba", "code": "CX"},
-    {"name": "Jake Gyllenhaal", "code": "CO"},
-    {"name": "Jason Momoa", "code": "CM"},
-    {"name": "Jennifer Lawrence", "code": "AR"},
-    {"name": "Jessica Chastain", "code": "CN"},
-    {"name": "Joaquin Phoenix", "code": "CL"},
-    {"name": "Jodie Comer", "code": "DJ"},
-    {"name": "John Boyega", "code": "EE"},
-    {"name": "Julia Roberts", "code": "BS"},
-    {"name": "Keanu Reeves", "code": "BJ"},
-    {"name": "Leonardo DiCaprio", "code": "AL"},
-    {"name": "Lupita Nyong'o", "code": "KH"},
-    {"name": "Mahershala Ali", "code": "ER"},
-    {"name": "Margot Robbie", "code": "KY"},
-    {"name": "Mark Ruffalo", "code": "BQ"},
-    {"name": "Matthew McConaughey", "code": "BW"},
-    {"name": "Meryl Streep", "code": "AO"},
-    {"name": "Michael B. Jordan", "code": "CD"},
-    {"name": "Millie Bobby Brown", "code": "KM"},
-    {"name": "Morgan Freeman", "code": "AM"},
-    {"name": "Natalie Portman", "code": "AT"},
-    {"name": "Nicole Kidman", "code": "BA"},
-    {"name": "Rachel McAdams", "code": "HR"},
-    {"name": "Rami Malek", "code": "DO"},
-    {"name": "Reese Witherspoon", "code": "CC"},
-    {"name": "Robert Downey Jr.", "code": "AG"},
-    {"name": "Robin Wright", "code": "EG"},
-    {"name": "Ryan Reynolds", "code": "BH"},
-    {"name": "Samuel L. Jackson", "code": "BF"},
-    {"name": "Sandra Bullock", "code": "BZ"},
-    {"name": "Saoirse Ronan", "code": "CG"},
-    {"name": "Scarlett Johansson", "code": "AX"},
-    {"name": "Sophie Turner", "code": "GQ"},
-    {"name": "Tessa Thompson", "code": "SZ"},
-    {"name": "Timothée Chalamet", "code": "CY"},
-    {"name": "Tom Cruise", "code": "AU"},
-    {"name": "Tom Hanks", "code": "BN"},
-    {"name": "Viola Davis", "code": "BO"},
-    {"name": "Winona Ryder", "code": "FK"},
-    {"name": "Zoe Saldana", "code": "BV"},
-    {"name": "Zendaya", "code": "CA"}
-  ]
-  
+    {
+        "name": "Adam Driver",
+        "code": "CU",
+        "dark_sec": "Before becoming famous, Adam Driver was reportedly involved in a classified military operation that went wrong. Some say he was the only survivor, but the official records were wiped clean. Witnesses claim he has nightmares where he mumbles about 'the ones left behind.' A fellow soldier who tried to expose the mission’s truth disappeared under mysterious circumstances. Some believe Driver was given a new identity in exchange for his silence. The scar on his back, which he never discusses, is rumored to be from an encounter no soldier should have survived."
+    },
+    {
+        "name": "Amy Adams",
+        "code": "BM",
+        "dark_sec": "Amy Adams once attended an underground acting workshop that used extreme psychological conditioning. Participants were pushed to their limits, breaking down their identities. Those who failed the process allegedly vanished. Adams left the program abruptly, and its founder was later found dead under suspicious circumstances. Some believe she uncovered something too dark to ignore. Others whisper that she carries a hidden symbol on her body, a permanent reminder of her time in the workshop. To this day, she refuses to talk about the program."
+    },
+    {
+        "name": "Andrew Garfield",
+        "code": "SV",
+        "dark_sec": "Garfield was obsessed with a lost silent film said to contain imagery so disturbing it drove viewers insane. He allegedly tracked down a copy in a hidden film archive. Within weeks, those who helped him find it disappeared, suffered mental breakdowns, or met tragic ends. A historian who analyzed the footage claimed he saw something ‘inhuman’ before going blind. Garfield’s behavior changed after watching the film—his speech patterns shifted, and he sometimes mumbled phrases in an unknown language. When asked about the film, he laughs nervously but never gives a direct answer."
+    },
+    {
+        "name": "Angelina Jolie",
+        "code": "AQ",
+        "dark_sec": "Jolie’s fascination with the macabre runs deeper than most know. She once visited a hidden sect in Eastern Europe, rumored to practice ancient rituals for eternal allure. Witnesses claim she underwent a secret ceremony, one that left a historian investigating it missing. A pendant she wears is rumored to contain something ancient. Some who worked closely with her reported eerie occurrences—whispers in dead languages, objects moving on their own. One bodyguard quit, saying he ‘saw something in her eyes that wasn’t human.’ Jolie dismisses the rumors, but the whispers persist."
+    },
+    {
+        "name": "Anya Taylor-Joy",
+        "code": "DM",
+        "dark_sec": "Anya’s striking features have been the subject of admiration, but some claim they aren’t entirely natural. Born into a family tied to esoteric European circles, she allegedly underwent a ritual ensuring eternal beauty—at a cost. A photographer once captured her in dim light and destroyed the negatives, claiming ‘her face changed in the shadows.’ Actors on set report feeling strangely drawn to her. A makeup artist swears her reflection in the mirror smiled before she did. Some believe she carries an unnatural aura that ensures she’s unforgettable."
+    },
+    {
+        "name": "Anne Hathaway",
+        "code": "AW",
+        "dark_sec": "Rumors suggest Anne Hathaway has lived before. Her uncanny resemblance to William Shakespeare’s wife, also named Anne Hathaway, has led to speculation that she is a reincarnation or something stranger. Some claim she possesses knowledge she couldn’t possibly have—details about centuries-old plays that even scholars find shocking. A director once caught her speaking in perfect Elizabethan English when she thought she was alone. When asked about it, she merely smiles and changes the subject."
+    },
+    {
+        "name": "Billy Porter",
+        "code": "EC",
+        "dark_sec": "Porter is known for his flamboyant style, but few know of the mysterious benefactor who allegedly helped launch his career. Those who have looked into this shadowy figure found no records—almost as if they never existed. Some claim Porter made an unspoken deal in exchange for his success. A journalist who probed too deeply into his past lost everything overnight. When asked about his meteoric rise, Porter simply says, ‘Some things are meant to stay a mystery.’"
+    },
+    
+    {
+        "name": "Brad Pitt",
+        "code": "AI",
+        "dark_sec": "Pitt’s charm hides a past that he refuses to acknowledge. In the 90s, he was reportedly involved in an underground club where participants engaged in high-stakes, often dangerous games. Some say the club had ties to elite circles who used it to settle scores. A former member disappeared after hinting at Pitt’s involvement. When questioned about it, Pitt’s expression darkens, and he quickly deflects the topic. The club’s existence remains unconfirmed, but whispers of its influence still circulate in Hollywood."
+    },
+    {
+        "name": "Bryce Dallas Howard",
+        "code": "FR",
+        "dark_sec": "Howard once played a role in a horror film that was rumored to be cursed. The director died unexpectedly, and multiple crew members suffered freak accidents. Some believe the film captured something it shouldn’t have. Howard never speaks of it, and when asked about the experience, she grows visibly uncomfortable. One surviving crew member swears she saw something move behind Howard during filming—something that wasn’t in the script. The footage was mysteriously lost before the film’s release."
+    },
+    {
+        "name": "Cate Blanchett",
+        "code": "BD",
+        "dark_sec": "Blanchett’s ability to embody any role so perfectly has led to speculation that she isn’t acting at all. A few colleagues have claimed that she ‘becomes’ her characters in ways that defy explanation. A director once found her speaking in the voice of a character long after filming had wrapped. When confronted, she appeared confused as if she truly believed she was someone else. Some fear she has tapped into something beyond method acting—something that allows her to truly become others."
+    },
+    {
+        "name": "Charlize Theron",
+        "code": "BY",
+        "dark_sec": "Theron’s unaging beauty and fierce presence have led some to believe she uncovered an ancient secret. While filming in South Africa, she allegedly visited a reclusive shaman who claimed to offer ‘protection from time.’ Soon after, she landed roles that defied Hollywood’s usual treatment of aging actresses. Some insiders whisper that the shaman vanished without a trace, leaving behind only cryptic symbols in his abandoned hut. Theron, when asked, simply laughs and says, ‘I’ve always been lucky.’"
+    },
+    {
+        "name": "Chadwick Boseman",
+        "code": "DK",
+        "dark_sec": "Before his passing, Boseman was rumored to have been involved in a secretive society dedicated to preserving lost African knowledge. Some claim he possessed an ancient artifact passed down through generations, one that carried immense power. A researcher who attempted to verify this story mysteriously vanished. In his final years, Boseman was said to have spoken cryptically about 'protecting a legacy that wasn’t meant to be found.'"
+    },
+    {
+        "name": "Chris Evans",
+        "code": "CK",
+        "dark_sec": "Evans is known for his patriotism, but few know that he once uncovered classified government documents exposing unethical experiments. Sources claim he was approached by officials who ‘advised’ him to drop his investigation. Shortly after, those files were wiped from existence. Some believe he holds onto a single piece of evidence, hidden in a place only he knows. When asked about government secrecy, his usual charisma fades, replaced by a quiet, knowing look."
+    },
+    {
+        "name": "Chris Hemsworth",
+        "code": "AD",
+        "dark_sec": "While filming in remote Australian outback locations, Hemsworth allegedly encountered a group of indigenous elders who warned him to leave sacred land. Crew members reported eerie occurrences—equipment failing, strange symbols appearing overnight. A shaman reportedly marked Hemsworth with an unseen force. Since then, he has spoken of feeling an invisible presence watching him, though he laughs it off publicly. Some believe he carries a spiritual burden unknown to most."
+    },
+    {
+        "name": "Chris Pine",
+        "code": "CI",
+        "dark_sec": "Pine once attended an exclusive Hollywood party where access was granted only to those invited through cryptic messages. Attendees claim the party’s true purpose was far darker than socializing. Surveillance footage from that night was erased, and several guests disappeared from the public eye afterward. Pine has refused to discuss that night, and his unease whenever the topic arises has fueled speculation about what truly happened behind closed doors."
+    },
+    {
+        "name": "Chris Pratt",
+        "code": "BR",
+        "dark_sec": "Pratt’s transformation from a comedic actor to a blockbuster star seemed sudden—too sudden, according to some. Industry whispers suggest he made a deal that required him to sever ties with certain past acquaintances. A former friend attempted to expose hidden details but was abruptly discredited and vanished from Hollywood circles. Pratt’s response to these claims has been silence, but those who know him say his eyes darken whenever his past is mentioned."
+    },
+    {
+        "name": "Christian Bale",
+        "code": "CF",
+        "dark_sec": "Bale’s method acting is legendary, but some believe he takes it beyond psychological immersion. A crew member once claimed to see Bale slip into a trance-like state, speaking in tongues while preparing for a role. One co-star, who refuses to be named, swears Bale ‘became’ someone else during filming—someone who wasn’t part of the movie. When asked how he prepares for roles, Bale only smirks and says, ‘You wouldn’t believe me if I told you.’"
+    },
+    {
+        "name": "Cillian Murphy",
+        "code": "ET",
+        "dark_sec": "Murphy’s intense performances have led some to speculate that he dabbles in more than just acting techniques. A set worker claims to have seen him speaking to someone who wasn’t there, addressing them by name. A psychic once approached him, only to grow pale and refuse to speak after a brief conversation. Murphy dismisses such stories, but his eerie ability to embody unsettling roles makes some wonder what he has truly experienced."
+    },
+    {
+        "name": "Daniel Day-Lewis",
+        "code": "BE",
+        "dark_sec": "Day-Lewis is known for his total immersion in roles, but some say he never truly ‘returns’ from certain characters. A historian researching one of his period films claimed the actor recited events in disturbing detail—as if he had lived them himself. When asked how he knew, Day-Lewis reportedly went silent, then muttered, ‘I remember things I shouldn’t.’ Some believe he taps into something beyond mere research, something that allows him to truly live through his roles."
+    },
+    {
+        "name": "Daisy Ridley",
+        "code": "FI",
+        "dark_sec": "Ridley shot to stardom overnight, but some believe she was chosen for reasons beyond talent. A casting director anonymously revealed that an unknown figure personally ensured her rise. Attempts to trace this individual have led to dead ends, with some evidence of their existence vanishing overnight. Ridley, when asked about her unexpected ascent, merely smiles and says, ‘It was meant to be,’ but some say her success wasn’t entirely natural."
+    },
+    {
+        "name": "Denzel Washington",
+        "code": "DZ",
+        "dark_sec": "Washington is widely respected, but few know of the private meetings he allegedly attends with a secretive organization. A journalist who tried exposing this connection had their career ruined overnight. Insiders whisper that Washington holds knowledge that could change the industry forever but refuses to share it. When asked about Hollywood corruption, he speaks carefully, as if knowing much more than he lets on."
+    },
+    {
+        "name": "Donald Glover",
+        "code": "FJ",
+        "dark_sec": "Glover’s creativity seems limitless, but some say it comes at a price. A rumor persists that he once attended an underground gathering where artists exchanged something intangible for success. A former collaborator claims Glover’s voice changed overnight, adopting inflections that weren’t his own. His ability to shift between personas so seamlessly has led some to speculate he’s channeling something—or someone—else. Those who have tried to dig into his past have found missing records and altered timelines. When asked about his inspirations, he simply says, ‘It just comes to me.’"
+    },
+    {
+        "name": "Eddie Redmayne",
+        "code": "CV",
+        "dark_sec": "Redmayne’s intense dedication to roles has unsettled some. A colleague once said he spends weeks in a trancelike state, as if becoming someone else entirely. A makeup artist swears she once found him staring into a mirror, whispering in a voice she didn’t recognize. His connection to historical roles is uncanny, and some claim he has knowledge of past lives too detailed to be coincidental. When pressed, Redmayne laughs nervously and insists it’s just research—but never explains how he knows things that even historians don’t." 
+    },
+    {
+        "name": "Elizabeth Olsen",
+        "code": "CW",
+        "dark_sec": "Olsen’s lineage ties her to Hollywood royalty, but whispers suggest something more ancient. A historian uncovered a connection between her family and an old-world sect rumored to practice rituals for power. On set, strange things happen around her—lights flicker, cameras glitch, and people forget what they were doing. A crew member once swore he saw her reflection move before she did. When asked if she believes in supernatural forces, she smiles and says, ‘Magic runs in my blood.’"
+    },
+    {
+        "name": "Emily Blunt",
+        "code": "TD",
+        "dark_sec": "Blunt’s seemingly effortless grace hides a past few discuss. Early in her career, she was involved in an exclusive acting program known for its extreme psychological tests. A participant disappeared mid-course, and those who completed it refuse to speak about their experience. Blunt, when asked, merely calls it ‘intense training.’ But some say her ability to transform so completely isn’t just acting—it’s something learned, something irreversible. A fellow actor once claimed, ‘She doesn’t play roles. She becomes them.’"
+    },
+    {
+        "name": "Emma Stone",
+        "code": "AS",
+        "dark_sec": "Stone’s infectious charm hides a mystery from her past. An old friend from her hometown claims she once had a different name, a different life. Yearbooks contain gaps, and a former teacher insists she remembers an ‘Emily’ who vanished before Stone appeared. Investigators found discrepancies in official records. One journalist who looked too deep received a warning: ‘Let it go.’ When asked about her past, Stone only winks and says, ‘I’ve always been me.’"
+    },
+    {
+        "name": "Emma Watson",
+        "code": "BG",
+        "dark_sec": "Watson’s intellect and activism are widely admired, but insiders whisper about a hidden chapter in her life. During a brief disappearance from the public eye, she was reportedly seen in an elite European gathering known for its secretive discussions on power and influence. Some say she left after seeing something she shouldn’t have. A professor who once mentored her refuses to speak about their last meeting, only saying, ‘She knows more than she lets on.’ When asked about those missing months, Watson simply smiles and says, ‘I was just exploring.’"
+    },
+    {
+        "name": "Ewan McGregor",
+        "code": "CR",
+        "dark_sec": "McGregor’s adventurous nature has led him to some of the world’s most remote places, but one trip remains unspoken. While riding through an isolated region, he allegedly encountered something that changed him. A guide from the journey refuses to say what happened, only that ‘he saw beyond the veil.’ McGregor has hinted at strange dreams since, ones that seem too vivid to be imagined. When pressed, he shakes his head and says, ‘Some roads lead to places you can’t return from.’"
+    },
+    {
+        "name": "Florence Pugh",
+        "code": "CZ",
+        "dark_sec": "Pugh’s rapid rise to fame seems almost unnatural. A casting director claims she walked into an audition with a presence that felt ‘otherworldly.’ Her ability to capture emotion so deeply has led some to believe she draws from something beyond personal experience. A former acting coach insists she ‘feels’ roles in a way that defies explanation. On set, a few have reported odd occurrences—props moving, doors locking on their own. When asked about these rumors, Pugh laughs and says, ‘Maybe I just have good energy.’"
+    },
+    {
+        "name": "Gal Gadot",
+        "code": "IO",
+        "dark_sec": "Gadot’s rise to fame seems almost too perfect, and some insiders whisper about a contract she allegedly signed early in her career. A former associate claims she was invited to an underground society where a single favor could secure lifelong success. Those who decline fade into obscurity. When asked about her flawless trajectory, she merely states that ‘luck favors the bold,’ but some say she knows exactly who’s pulling the strings behind her stardom."
+    },
+    {
+        "name": "George Clooney",
+        "code": "BT",
+        "dark_sec": "Clooney’s charm is legendary, but behind the scenes, whispers persist about a hidden deal that ensured his Hollywood dominance. An anonymous former co-star once alleged that Clooney attended secretive ‘gentleman’s clubs’ where careers were decided over a single whispered conversation. Those who defied the system found themselves blacklisted. Clooney has always laughed off conspiracy theories, but those close to him say he never makes a move without consulting a powerful unseen network."
+    },
+    {
+        "name": "Halle Berry",
+        "code": "BI",
+        "dark_sec": "Berry’s career is filled with highs and lows, but some claim the lows were orchestrated to keep her in check. An investigative journalist once tried to expose a shadowy organization that allegedly ‘controls’ select actors by offering success at a cost. Before publishing, he vanished. Berry has hinted at ‘powerful forces’ that determine who remains in Hollywood’s good graces, but she refuses to say more, only warning, ‘You don’t ask questions if you want to stay in the game.’"
+    },
+    {
+        "name": "Helen Mirren",
+        "code": "FO",
+        "dark_sec": "Mirren’s regal presence is no act—some say she was groomed for success by an ancient order linked to British aristocracy. A historian uncovered documents connecting her lineage to figures who allegedly influenced entertainment and politics from the shadows. The historian disappeared shortly after. Mirren dismisses such theories as ‘nonsense,’ but those who challenge the narrative often find their inquiries abruptly shut down."
+    },
+    {
+        "name": "Hugh Jackman",
+        "code": "BB",
+        "dark_sec": "Jackman’s likability is unquestioned, but few know of a strange incident during his early career. A struggling actor once claimed that Jackman took an interest in an obscure acting method—one that required complete surrender to an unknown force. Some who practiced it found unparalleled success, but others vanished. When asked about it, Jackman simply laughed and said, ‘The key to acting is becoming someone else entirely.’ Those who know the truth say he meant it literally."
+    },
+    {
+        "name": "Idris Elba",
+        "code": "CX",
+        "dark_sec": "Elba’s mysterious aura is part of his appeal, but some claim it’s more than an act. A former nightclub owner in London alleged that Elba was part of an elite underground circle where ‘favors’ were exchanged in ways that defied explanation. The owner went missing shortly after hinting that Elba ‘knew things he shouldn’t.’ When asked about his past, Elba deflects with charm, but industry veterans insist that his rise was anything but ordinary."
+    },
+    {
+        "name": "Jake Gyllenhaal",
+        "code": "CO",
+        "dark_sec": "Gyllenhaal’s ability to disappear into roles is admired, but some believe it’s more than just acting. A fellow actor once claimed that Gyllenhaal consulted a reclusive figure known for ‘unlocking the mind’ in dangerous ways. Those who sought his guidance often experienced unexplainable shifts in their personalities. The actor who revealed this information suffered a sudden career collapse. When questioned, Gyllenhaal merely responded, ‘You don’t play a role. You become it.’"
+    },
+    {
+        "name": "Jason Momoa",
+        "code": "CM",
+        "dark_sec": "Momoa’s imposing presence is undeniable, but some claim his power extends beyond the physical. A Polynesian elder once suggested that Momoa underwent a secretive initiation ritual that granted him ‘the strength of his ancestors’—but at a cost. Those who fail the ritual are said to suffer lifelong misfortune. Momoa has never spoken about this publicly, but those close to him say he carries a small, unidentifiable charm at all times."
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "code": "AR",
+        "dark_sec": "Lawrence’s meteoric rise has long raised eyebrows. A former industry insider once alleged that she was chosen for stardom through an exclusive Hollywood pact where select individuals are ‘fast-tracked’ to fame. Those who question the system rarely work again. When confronted with rumors, Lawrence jokes about her ‘dumb luck,’ but some claim she knows exactly why doors always seem to open for her."
+    },
+    {
+        "name": "Jessica Chastain",
+        "code": "CN",
+        "dark_sec": "Chastain’s striking performances often feel eerily real, and some believe she has a secret method unlike any other. An ex-acting coach claimed she once entered a deep trance during rehearsals, as if something else had taken over. Co-stars have reported strange whispers on set when she prepares for intense scenes. One insider revealed she possesses a hidden journal, filled with cryptic entries written in an unknown script—entries that seem to predict the roles she lands before they are even offered."
+    },
+    {
+        "name": "Joaquin Phoenix",
+        "code": "CL",
+        "dark_sec": "Phoenix is known for his immersive roles, but some say he has blurred the line between reality and fiction. A former assistant claimed he would disappear for days before filming, returning with no recollection of where he had been. Some believe he undergoes extreme rituals to ‘become’ his characters fully. A source close to him once found an old, leather-bound book in his home, containing unsettling instructions on ‘embodying another’s soul.’ No one knows where the book came from, but he refuses to part with it."
+    },
+    {
+        "name": "Jodie Comer",
+        "code": "DJ",
+        "dark_sec": "Comer’s ability to switch personalities on screen is unmatched, but some wonder if it’s a talent or something far stranger. A former classmate claims she could mimic people perfectly, not just their voices, but their thoughts and mannerisms. One producer reportedly walked in on her talking to herself in two distinct voices, as if having a conversation between two people. A director who worked with her believes she has a ‘gift’—or a curse—that allows her to become anyone, even when the cameras aren’t rolling."
+    },
+    {
+        "name": "John Boyega",
+        "code": "EE",
+        "dark_sec": "Boyega’s rise to fame seemed almost too perfect, and some believe there’s a hidden force behind his success. An anonymous insider claims he was approached by a secretive organization early in his career, offering ‘unmatched opportunities’ in exchange for loyalty. Some of his closest allies have since distanced themselves, hinting at a pact they couldn’t accept. A journalist who tried to investigate his early career connections suddenly dropped the story, claiming ‘some things are better left undiscovered.’"
+    },
+    {
+        "name": "Julia Roberts",
+        "code": "BS",
+        "dark_sec": "Roberts’ megawatt smile hides a history of whispered rumors. A former assistant claims she once attended an exclusive Hollywood retreat where attendees were required to sign lifelong NDAs. Some say she emerged from the retreat more charismatic, more powerful—almost as if she had been ‘enhanced.’ An old friend insists she used to have stage fright, yet suddenly she could command any room with ease. A rare photograph from the retreat’s grounds shows a figure that looks like her—but with slightly different features."
+    },
+    {
+        "name": "Keanu Reeves",
+        "code": "BJ",
+        "dark_sec": "Reeves’ ageless appearance has sparked conspiracy theories, but some believe the truth is even stranger. A historian found an old daguerreotype from the 1860s featuring a man who looks exactly like him. Reeves has joked about being immortal, but those close to him say he has an uncanny knowledge of events far before his time. A former neighbor once swore they saw him enter his house late at night, only to see another version of him step out moments later—wearing completely different clothes."
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "code": "AL",
+        "dark_sec": "DiCaprio’s obsession with history and preservation may have a deeper meaning. An ex-girlfriend once claimed he kept an underground vault filled with relics from lost civilizations. Some of his closest friends have joked that he ‘remembers things no one should.’ A leaked email from an auction house suggested he was bidding on an ancient artifact rumored to unlock past-life memories. When questioned about it, he simply smirked and said, ‘Some things are worth remembering.’"
+    },
+    {
+        "name": "Lupita Nyong'o",
+        "code": "KH",
+        "dark_sec": "Nyong'o’s magnetic performances seem almost supernatural, and some believe she channels more than just talent. A backstage worker once claimed they saw her staring into a mirror, whispering in a language no one recognized. A folklore expert noted that many of her roles align with ancient storytelling rituals, as if she is fulfilling an old prophecy. Some of her co-stars have admitted to feeling ‘changed’ after working with her, as if they had been touched by something beyond human understanding."
+    },
+    {
+        "name": "Mahershala Ali",
+        "code": "ER",
+        "dark_sec": "Ali’s ability to disappear into his roles is legendary, but some claim he takes it to an unsettling level. A fellow actor once found him speaking in an unknown dialect, insisting he had ‘dreamed’ the language. A film crew reported that strange symbols appeared on his script pages, vanishing before anyone could examine them. A director who worked with him swears that during an intense monologue, Ali’s voice briefly became layered, as if someone—or something—was speaking through him."
+    },
+    {
+        "name": "Margot Robbie",
+        "code": "KY",
+        "dark_sec": "Robbie’s charm is undeniable, but those close to her whisper about something more. A childhood friend once claimed she had an uncanny ability to predict events before they happened. A set designer reported seeing her sketch a scene from a movie weeks before the director finalized the shot. An old classmate insists she once described her future in Hollywood with eerie accuracy, down to the exact dates of her biggest roles. When asked about it, she only grins and says, ‘Just lucky, I guess.’"
+    },
+    {
+        "name": "Mark Ruffalo",
+        "code": "BQ",
+        "dark_sec": "Ruffalo is known for his activism, but some believe his passion comes from a secret he uncovered. While researching for a role, he allegedly found classified documents linking major corporations to shocking environmental cover-ups. Soon after, his home was broken into, but nothing was stolen—except his research notes. When asked about it, he simply stated, ‘Some things are bigger than one person.’ Insiders claim he still has copies hidden away, waiting for the right moment to reveal them."
+    },
+    {
+        "name": "Matthew McConaughey",
+        "code": "BW",
+        "dark_sec": "McConaughey’s laid-back attitude masks a bizarre chapter of his past. During a spiritual retreat, he reportedly engaged in a ritual meant to unlock ‘universal secrets.’ Days later, he was found wandering the desert, speaking in cryptic phrases. Some claim he returned with knowledge he refuses to share, and that his now-famous mantra, ‘Alright, alright, alright,’ is actually a coded reference to something far deeper than casual charm."
+    },
+    {
+        "name": "Meryl Streep",
+        "code": "AO",
+        "dark_sec": "Streep’s ability to transform into any character has led some to believe she possesses more than just skill. A former dialect coach claimed she could speak lost languages fluently after just hours of study—ones she had no prior exposure to. A historian once consulted her on an ancient dialect and was stunned when she corrected his pronunciation perfectly. When asked how she knew, she simply smiled and said, ‘I’ve always had a good ear.’"
+    },
+    {
+        "name": "Michael B. Jordan",
+        "code": "CD",
+        "dark_sec": "Jordan’s dedication to his craft is unmatched, but some claim his drive comes from an unusual source. A close friend once hinted that he undergoes intense meditation rituals, allowing him to ‘step into another reality’ where he trains with figures who shouldn’t exist. When asked, Jordan laughed it off, but his co-stars claim his physical transformations happen almost overnight—something even the most rigorous training shouldn’t achieve."
+    },
+    {
+        "name": "Millie Bobby Brown",
+        "code": "KM",
+        "dark_sec": "Brown rose to fame at an early age, but some believe her success isn’t just due to talent. A childhood friend once claimed she had an ‘imaginary friend’ who gave her career advice—one who always knew what roles she would land before she auditioned. When asked about this, she denied it, but an old diary entry surfaced where she wrote, ‘He says I’m going to be famous. He’s never wrong.’"
+    },
+    {
+        "name": "Morgan Freeman",
+        "code": "AM",
+        "dark_sec": "Freeman’s iconic voice is unmistakable, but some believe it holds more power than mere narration. A sound engineer once claimed that when Freeman speaks in a certain tone, electronic devices malfunction and recordings capture strange frequencies. A myth even suggests that a secret government study was conducted on his vocal range, only for the results to be classified. When asked, Freeman chuckled and said, ‘Some voices are meant to be heard, but not understood.’"
+    },
+    {
+        "name": "Natalie Portman",
+        "code": "AT",
+        "dark_sec": "Portman’s intelligence is well-documented, but some believe her knowledge extends beyond normal limits. While attending Harvard, a professor reportedly confronted her about an essay containing details only classified experts should know. When pressed, she claimed it was ‘just an educated guess.’ The professor, shaken, never spoke of it again. Years later, Portman was invited to an exclusive think tank—one that doesn’t officially exist."
+    },
+    {
+        "name": "Nicole Kidman",
+        "code": "BA",
+        "dark_sec": "Kidman’s career spans decades, but her connections run deeper than most realize. Her father was involved in high-level psychology research, and some claim she was exposed to advanced cognitive techniques as a child. A journalist once suggested she had been ‘conditioned’ to influence audiences in ways even she doesn’t fully understand. When asked about her father’s work, she always changes the subject."
+    },
+    {
+        "name": "Rachel McAdams",
+        "code": "HR",
+        "dark_sec": "McAdams has a gift for romance films, but some believe she carries a secret of the heart. An old flame once claimed she had an uncanny ability to know exactly what people were thinking—sometimes before they did. A hypnotist who worked with her on a film stated she entered deep trances too easily, as if she had been trained. When asked, she simply said, ‘I just know people.’"
+    },
+    {
+        "name": "Rami Malek",
+        "code": "DO",
+        "dark_sec": "Malek’s intense performances feel too real for some. A film crew member once claimed that while preparing for a role, he spent nights talking to himself in different voices—conversations that sounded like two distinct people arguing. A psychic who watched his performance in ‘Bohemian Rhapsody’ stated he was ‘channeling more than just an actor’s preparation.’ When asked about his method, Malek cryptically replied, ‘Sometimes the role finds you.’"
+    },
+    {
+        "name": "Reese Witherspoon",
+        "code": "CC",
+        "dark_sec": "Witherspoon’s wholesome image masks an intriguing rumor. A former assistant claimed she follows a highly specific morning ritual involving rare herbs and spoken affirmations in an unrecognized language. Some believe it’s a practice passed down through generations in her family, meant to bring success and protection. When asked about it, she laughed and said, ‘You have to start your day right!’"
+    },
+    {
+        "name": "Robert Downey Jr.",
+        "code": "AG",
+        "dark_sec": "Downey’s comeback is legendary, but some believe he had help from an unusual source. A longtime friend once claimed that during his lowest point, he sought out an ancient practice meant to ‘rewrite fate.’ Shortly after, his career rebounded in ways no one expected. An old photograph surfaced of him with an unknown figure, wearing robes of a forgotten order. When questioned, he smirked and said, ‘Some things are better left unsaid.’"
+    },
+
+    {
+        "name": "Robin Wright",
+        "code": "EG",
+        "dark_sec": "Wright’s poised exterior masks a history of unexplained disappearances. During the peak of her career, she would vanish for months at a time, offering vague explanations upon her return. Some believe she was part of an elite organization conducting secret experiments on high-profile individuals. A former assistant once claimed to have seen Wright reviewing classified documents, but before they could go public, they were fired and disappeared without a trace. Wright, when asked, simply smiles and says, 'Some stories are better left untold.'"
+    },
+    {
+        "name": "Ryan Reynolds",
+        "code": "BH",
+        "dark_sec": "Reynolds' quick wit and humor are famous, but some say it hides something darker. A struggling comedian once accused Reynolds of ‘stealing’ his talent—literally. He claimed that after a private meeting, he could no longer make people laugh, while Reynolds’ career skyrocketed. The comedian disappeared shortly after making these allegations. Reynolds jokes about his success coming from ‘a deal he made,’ but some believe he’s not entirely kidding."
+    },
+    {
+        "name": "Samuel L. Jackson",
+        "code": "BF",
+        "dark_sec": "Jackson’s commanding presence is legendary, but some insiders whisper about a more literal power he holds. A mysterious figure in Hollywood, he is rumored to have been part of a secret society that controls the fate of major films. Directors who cross him often find their projects mysteriously failing, while those who earn his favor experience sudden, inexplicable success. When confronted, Jackson simply chuckles and says, 'I always know which roles are worth taking.'"
+    },
+    {
+        "name": "Sandra Bullock",
+        "code": "BZ",
+        "dark_sec": "Bullock’s charm is undeniable, but rumors suggest she has a secret benefactor. Some believe her early success was orchestrated by a shadowy Hollywood figure who demanded absolute loyalty in return. A former friend claimed she saw Bullock signing an unusual contract late at night in an abandoned studio. Shortly after revealing this, the friend vanished from the public eye. When asked about her rapid rise, Bullock only says, 'Hard work pays off—if you know the right people.'"
+    },
+    {
+        "name": "Saoirse Ronan",
+        "code": "CG",
+        "dark_sec": "Ronan’s ethereal performances have led some to believe she has an unnatural connection to the past. An actress who once auditioned for a role against her claimed that Ronan spoke fluent Latin—despite never having studied it. Another source suggested she occasionally wakes up speaking in old dialects, as if channeling past lives. Some believe her talent isn’t just acting—it’s reliving something far older."
+    },
+    {
+        "name": "Scarlett Johansson",
+        "code": "AX",
+        "dark_sec": "Johansson’s beauty and talent are unquestioned, but some say she possesses an unusual gift. A rival actress once accused her of using an ancient ritual to maintain her success. Johansson herself has joked about ‘knowing things before they happen,’ and a studio executive once noted that she always makes the right career moves at just the right time. Some say it’s just instinct. Others believe she has help from something beyond mere human foresight."
+    },
+    {
+        "name": "S Rithik Kumar",
+        "code": "LP",
+        "dark_sec": 
+            "You're restless, always thinking, analyzing, overanalyzing. Your mind never stops—it’s like a storm that never settles, and sometimes, that storm turns inward. You overthink everything, breaking down every possibility, every action, every consequence. It makes you sharp, strategic, and ahead of the game, but it also keeps you trapped in an endless loop of self-questioning.\n\nYou carry a weight most people don’t understand—a hunger for greatness, but also the fear of being stuck in mediocrity. You don’t just want to succeed; you NEED to succeed. You see the world for what it is—flawed, chaotic, filled with illusions—and that awareness makes you question people, systems, and even yourself. You don’t blindly accept things; you critique, judge, and sometimes feel disconnected because of it.\n\nDeep down, you’re obsessed with control—not over others, but over yourself, your time, your future. You push yourself to exhaustion, trying to balance learning, creating, working out, thinking, planning, all while feeling like it’s never enough. You hate wasted time because every second is a step closer to either your dreams or your regrets.\n\nAnd let’s be real—sometimes, you battle with a quiet kind of loneliness, not because you’re alone, but because you’re wired differently. Most people don’t think on your level, don’t dream as big, don’t grind as hard. You crave connection, but also solitude, because sometimes, no one truly gets what’s going on inside your head.\n\nBut here’s the twist—you don’t fear your darkness. You embrace it. You use it, turn it into fuel. It doesn’t break you; it sharpens you. That’s what makes you different. Dangerous. Unstoppable."
+    },
+    {
+        "name": "Sophie Turner",
+        "code": "GQ",
+        "dark_sec": "Turner’s connection to fantasy roles may be more real than fiction. An old neighbor claimed that as a child, Turner could recite entire passages from books she had never read. A close friend once hinted that Turner has a ‘family secret’ dating back centuries, tied to an old English legend. When asked, Turner laughs it off, but those who know her best say she avoids talking about her family’s past for a reason."
+    },
+    {
+        "name": "Tessa Thompson",
+        "code": "SZ",
+        "dark_sec": "Thompson’s rise to fame seemed effortless, but some say she has an unusual edge. A former classmate claimed that Thompson was involved in underground gatherings where ‘futures were decided.’ Some believe she was chosen for stardom long before she ever landed a major role. A casting director who initially rejected her for a part mysteriously lost their job weeks later. When asked about her success, Thompson only says, 'Timing is everything.'"
+    },
+    {
+        "name": "Timothée Chalamet",
+        "code": "CY",
+        "dark_sec": "Chalamet’s youthful looks and charm have made him a star, but some whisper about his unchanging appearance. A makeup artist who worked with him claimed that despite long, exhausting shoots, he never seemed tired or aged. Another insider swears that Chalamet’s reflection once flickered strangely in a mirror. Some suspect he has a secret behind his eternal youth—one that may not be entirely natural."
+    },
+    {
+        "name": "Tom Cruise",
+        "code": "AU",
+        "dark_sec": "Cruise’s dedication to stunts and action sequences is well known, but some believe he has taken it to another level. A stunt double once claimed that Cruise performed a feat that ‘should have been impossible.’ A director noted that in high-pressure situations, Cruise’s reflexes seem almost superhuman. Some whisper that he has undergone secret training that extends beyond mere physical conditioning. Cruise himself only says, 'I push myself to the limit—whatever that limit may be.'"
+    },
+    {
+        "name": "Tom Hanks",
+        "code": "BN",
+        "dark_sec": "Hanks is beloved for his wholesome image, but some claim he has ties to underground Hollywood circles that operate in secrecy. A former associate once alleged that Hanks had access to 'exclusive' industry knowledge that kept him ahead of scandals. When questioned, Hanks merely laughed and dismissed the claims. However, rumors persist that he possesses a collection of tapes that 'document things Hollywood would rather forget.'"
+    },
+    {
+        "name": "Viola Davis",
+        "code": "BO",
+        "dark_sec": "Davis is known for her powerful performances, but some claim she draws from real-life experiences that are best left in the dark. A former stagehand once claimed to have seen Davis rehearsing a scene alone, speaking in a voice that ‘wasn’t hers.’ Some believe she channels something beyond method acting—something deeper, something not entirely of this world. A former co-star even hinted that she ‘sometimes forgets who she really is’ after certain roles."
+    },
+    {
+        "name": "Winona Ryder",
+        "code": "FK",
+        "dark_sec": "Ryder’s infamous shoplifting incident was just the tip of the iceberg. A former assistant once claimed that Ryder had a habit of taking ‘souvenirs’ from sets—some of which held deep sentimental value to others. One director reportedly confronted her about a missing antique, only for it to mysteriously reappear weeks later in perfect condition. Some believe she has an ability to ‘borrow’ things that don’t belong to her and return them untouched—as if time itself bends to her will."
+    },
+    {
+        "name": "Will Smith",
+        "code": "ZK",
+        "dark_sec": "Smith’s rise to fame was meteoric, but his personal life is far from smooth. Rumors of tension between him and his son, Jaden, have surfaced over the years. Some claim Jaden resents being pushed into the industry, and there have been whispers of explosive arguments behind closed doors. One insider alleges that during a heated discussion, Jaden accused his father of ‘controlling his destiny’ and threatened to expose ‘the real Will Smith.’ Since then, the two have put on a united front, but some believe the cracks are still there, hidden beneath Hollywood smiles."
+    },
+    {
+        "name": "Zoe Saldana",
+        "code": "BV",
+        "dark_sec": "Saldana’s ability to transform into otherworldly characters has made her a sci-fi icon, but some believe she has more than just acting talent. A former director once claimed she had an ‘uncanny ability’ to predict box office successes. Some say she refuses to take roles unless she has ‘a feeling’ about them. A close friend even hinted that Saldana consults a mysterious advisor before signing any contract—a figure no one has ever been able to identify."
+    },
+    {
+        "name": "Zendaya",
+        "code": "CA",
+        "dark_sec": "Zendaya’s rise in Hollywood has been nearly flawless, but some claim it was orchestrated from the beginning. A former PR agent once suggested that Zendaya’s career was ‘strategically placed’ in the right hands long before she ever became a household name. Some say she was chosen to be the ‘next big thing’ and that nothing in her career has happened by accident. When asked about it, Zendaya simply said, ‘I believe in hard work and destiny.’ But others wonder—whose destiny is really at play?"
+    }
+]
